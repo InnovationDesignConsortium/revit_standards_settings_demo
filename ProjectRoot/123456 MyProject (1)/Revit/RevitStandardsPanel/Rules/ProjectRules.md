@@ -119,7 +119,7 @@
       ],
       "User Message": "Room Number cannot duplicate an existing value",
       "Parameter Name": "Number",
-      "Prevent Duplicates": "True" *
+      "Prevent Duplicates": "True" 
     }
   ]
 }
