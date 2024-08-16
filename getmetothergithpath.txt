@@ -1,0 +1,19 @@
+NameofConfig;  Airport Configs- NYC
+List of Paths/ Files
+JFK,Newark 
+	-FolderPaths/JFC
+	-FolderPaths/NEWARK
+Branch= NY Airports Branch/Airports	
+
+
+NameofConfig;  Standard Hospital
+List of Paths/ Files
+	-../Healthcare/*rvt
+Branch= Main/Healthcare	
+
+
+1. Rule file is always named "rule.md"
+2. You have this config that parse the file path / name etc and gets you to the right branch and root folder 
+3. Update Rule* MD each branch when you want to make project/ group of project specific changes
+
+Branching allows for update (rebase or pull) from main when you make firm updates
