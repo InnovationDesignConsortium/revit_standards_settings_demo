@@ -1,12 +1,13 @@
-NameofConfig;  Airport Configs- NYC
+$NameofConfig;  Airport Configs- NYC
+$Projects included: JFK,Newark 
 List of Paths/ Files
-JFK,Newark 
 	-FolderPaths/JFC
 	-FolderPaths/NEWARK
 Branch= NY Airports Branch/Airports	
 
 
-NameofConfig;  Standard Hospital
+$NameofConfig;  Standard Hospital
+$Projects included: JFK,Newark
 List of Paths/ Files
 	-../Healthcare/*rvt
 Branch= Main/Healthcare	
